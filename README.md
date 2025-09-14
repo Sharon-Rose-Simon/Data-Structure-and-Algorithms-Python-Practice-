@@ -1,7 +1,30 @@
 # Data-Structure-and-Algorithms-Python-Practice-
 This is my Python-based project focused on solving Data Structures and Algorithms problems to strengthen my coding skills, improve my problem-solving abilities, and to deepen my understanding of CS core concepts.
 
-[DSA_problems.py](https://github.com/user-attachments/files/22322975/DSA_problems.py)
+# What I learned: 
+- I have practiced and improved my coding skills through uisng loops, conditionals and functions in Python
+- I learned to manage, use, upload, document and organise code on Github
+- I have deepened and strengthened my understanding in CS concepts
+
+# Skills Used: 
+- Python
+- Problem-Solving
+- Version with Git and Github
+- Data Structures and Algorithms
+- Logical thinking
+
+# Tools Used: 
+- Pycharm = This was used for writing and running code
+- Github = This was used to manage and showcase projects 
+
+# Problems Solved: 
+- Reverse a String
+- Factorial of a number
+- Sum of the digits
+- Counting even and odd numbers in a list
+- Find largest and smallest number in a list
+- Check if a word or Number is a Palindrome
+- prime number check 
 
 # Problem 1: Reverse a String
 def reverse_string(name):
@@ -93,4 +116,8 @@ else:
             break
     else:
         print("The number is a Prime.")
+        
+# Project File 
+- I have attached the full source code below: 
+[DSA_problems.py](https://github.com/user-attachments/files/22322975/DSA_problems.py)
 
