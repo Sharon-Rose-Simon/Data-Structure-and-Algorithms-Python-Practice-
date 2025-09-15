@@ -14,8 +14,8 @@ This is my Python-based project focused on solving Data Structures and Algorithm
 - Logical thinking
 
 # Tools Used: 
-- Pycharm = This was used for writing and running code
-- Github = This was used to manage and showcase projects 
+- Pycharm Community Edition = This was used for writing and running code
+- GitHub = This was used to manage and showcase projects 
 
 # Problems Solved: 
 - Reverse a String
