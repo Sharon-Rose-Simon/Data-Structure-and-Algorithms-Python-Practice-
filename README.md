@@ -9,7 +9,7 @@ This is my Python-based project focused on solving Data Structures and Algorithm
 # Skills Used: 
 - Python
 - Problem-Solving
-- Version with Git and Github
+- Version Control with Git and Github
 - Data Structures and Algorithms
 - Logical thinking
 
